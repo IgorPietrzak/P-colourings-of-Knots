@@ -32,7 +32,8 @@ cd Knots && cargo build --release
 
  2-braid with s1 applied 3 times:
 
-<img width="400" alt="image" src="https://github.com/IgorPietrzak/P-colouings-of-braid-knots/assets/96392306/c46c30fd-6e58-440c-a7a7-e3c036293ed4">
+<img width="400" alt="trefoil" src="https://github.com/IgorPietrzak/P-colourings-of-Knots/assets/96392306/80ca621d-9721-4f61-a4e8-315c9dce1986">
+
 
 
 To find the number of 3-colourings we run:
