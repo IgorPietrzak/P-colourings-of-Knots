@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "tricolourings"
+name = "knots"
 version = "0.1.0"
 dependencies = [
  "itertools",
