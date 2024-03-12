@@ -3,7 +3,7 @@
 
 ## Clone repository:
 ```bash
-git clone https://github.com/IgorPietrzak/P-colouings-of-braid-knots.git
+git clone https://github.com/IgorPietrzak/P-colouings-of-braid-knots.git ./Knots
 ```
 
 ## Build executable:
